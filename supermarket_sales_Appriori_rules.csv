@@ -1,0 +1,43 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,representativity,leverage,conviction,zhangs_metric,jaccard,certainty,kulczynski
+0,frozenset({'Fashion accessories'}),frozenset({'Electronic accessories'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+1,frozenset({'Electronic accessories'}),frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+2,frozenset({'Home and lifestyle'}),frozenset({'Electronic accessories'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+3,frozenset({'Electronic accessories'}),frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+4,frozenset({'Food and beverages'}),frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+5,frozenset({'Fashion accessories'}),frozenset({'Food and beverages'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+6,frozenset({'Fashion accessories'}),frozenset({'Health and beauty'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+7,frozenset({'Health and beauty'}),frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+8,frozenset({'Fashion accessories'}),frozenset({'Home and lifestyle'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+9,frozenset({'Home and lifestyle'}),frozenset({'Fashion accessories'}),1.0,1.0,1.0,1.0,1.0,1.0,0.0,inf,0.0,1.0,0.0,1.0
+10,frozenset({'Sports and travel'}),frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+11,frozenset({'Fashion accessories'}),frozenset({'Sports and travel'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+12,frozenset({'Food and beverages'}),frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+13,frozenset({'Home and lifestyle'}),frozenset({'Food and beverages'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+14,frozenset({'Health and beauty'}),frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+15,frozenset({'Home and lifestyle'}),frozenset({'Health and beauty'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+16,frozenset({'Sports and travel'}),frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+17,frozenset({'Home and lifestyle'}),frozenset({'Sports and travel'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+18,"frozenset({'Fashion accessories', 'Home and lifestyle'})",frozenset({'Electronic accessories'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+19,"frozenset({'Fashion accessories', 'Electronic accessories'})",frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+20,"frozenset({'Home and lifestyle', 'Electronic accessories'})",frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+21,frozenset({'Fashion accessories'}),"frozenset({'Home and lifestyle', 'Electronic accessories'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+22,frozenset({'Home and lifestyle'}),"frozenset({'Fashion accessories', 'Electronic accessories'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+23,frozenset({'Electronic accessories'}),"frozenset({'Fashion accessories', 'Home and lifestyle'})",0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+24,"frozenset({'Food and beverages', 'Fashion accessories'})",frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+25,"frozenset({'Food and beverages', 'Home and lifestyle'})",frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+26,"frozenset({'Fashion accessories', 'Home and lifestyle'})",frozenset({'Food and beverages'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+27,frozenset({'Food and beverages'}),"frozenset({'Fashion accessories', 'Home and lifestyle'})",0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+28,frozenset({'Fashion accessories'}),"frozenset({'Food and beverages', 'Home and lifestyle'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+29,frozenset({'Home and lifestyle'}),"frozenset({'Food and beverages', 'Fashion accessories'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+30,"frozenset({'Fashion accessories', 'Health and beauty'})",frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+31,"frozenset({'Fashion accessories', 'Home and lifestyle'})",frozenset({'Health and beauty'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+32,"frozenset({'Health and beauty', 'Home and lifestyle'})",frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+33,frozenset({'Fashion accessories'}),"frozenset({'Health and beauty', 'Home and lifestyle'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+34,frozenset({'Health and beauty'}),"frozenset({'Fashion accessories', 'Home and lifestyle'})",0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+35,frozenset({'Home and lifestyle'}),"frozenset({'Fashion accessories', 'Health and beauty'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+36,"frozenset({'Sports and travel', 'Fashion accessories'})",frozenset({'Home and lifestyle'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+37,"frozenset({'Sports and travel', 'Home and lifestyle'})",frozenset({'Fashion accessories'}),0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+38,"frozenset({'Fashion accessories', 'Home and lifestyle'})",frozenset({'Sports and travel'}),1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+39,frozenset({'Sports and travel'}),"frozenset({'Fashion accessories', 'Home and lifestyle'})",0.75,1.0,0.75,1.0,1.0,1.0,0.0,inf,0.0,0.75,0.0,0.875
+40,frozenset({'Fashion accessories'}),"frozenset({'Sports and travel', 'Home and lifestyle'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
+41,frozenset({'Home and lifestyle'}),"frozenset({'Sports and travel', 'Fashion accessories'})",1.0,0.75,0.75,0.75,1.0,1.0,0.0,1.0,0.0,0.75,0.0,0.875
